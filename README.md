@@ -1,6 +1,6 @@
 ## CHOI-YEON_CHEOL 
 ![choiyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiyen&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyy1459)](https://solved.ac/yyy1459/)
+<---- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyy1459)](https://solved.ac/yyy1459/) --->
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)
